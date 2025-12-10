@@ -1,0 +1,4 @@
+target,query,full_evalue,full_score,modelcov,seqcov,KO,symbol
+S1_18_54,enzyme_12_aln,4.80e-12,44.50,0.3975,0.4587,K18067,pht4
+S1_10_68,enzyme_38_aln,2.30e-13,49.20,0.9179,0.9699,K01055,pcaD
+S1_60_40,enzyme_3_aln,5.90e-20,70.40,0.3992,0.3796,K03929,pnbA
